@@ -8,5 +8,3 @@ Learn GitHub
 2.  I live in South Auckland.
 3.  I have 1 brother and no other siblings.
 
-
-- [] branch 02
